@@ -21,7 +21,7 @@ public:
  	{
  		for(int i=0;i<a.size();i++)
  		{
- 			if(s[i]==0)
+ 			if(a[i]==0)
  			{
  				a1++;
 			}
